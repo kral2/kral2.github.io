@@ -24,9 +24,9 @@ speed 1000
 - for Nexus 5020 : ports 1 to 16,
 - for Nexus 5500/5600 : ports 1 to 32.
 
-*Note : On 5500/5600, when a port is configured with `speed auto` it will automaticcaly select the right speed based on the inserted module.*
+*Note : On 5500/5600, when a port is configured with `speed auto` it will automatically select the right speed based on the inserted module.*
 
-## Références
+## References
 
 [http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/sw/configuration/guide/cli/CLIConfigurationGuide/BasicEthernet.html](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/sw/configuration/guide/cli/CLIConfigurationGuide/BasicEthernet.html)
 *A Cisco Nexus 5000 Series switch has a number of fixed 10-Gigabit ports, each equipped with SFP+ interface adapters. The Nexus 5010 switch has 20 fixed ports, the first eight of which are switchable 1-Gigabit/10-Gigabit ports. The Nexus 5020 switch has 40 fixed ports, the first 16 of which are switchable 1-Gigabit/10-Gigabit ports.*
