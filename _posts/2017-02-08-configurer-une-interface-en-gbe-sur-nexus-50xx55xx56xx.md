@@ -19,14 +19,14 @@ Pour cela les modules GLC-T sont nécessaires.
 
 L’erreur typique rencontrée est « SFP Validation Failed », malgré un SFP compatible. Afin d’avoir un port fonctionnel, il faut configurer le port <strong>avant</strong> d’insérer le SFP.
 <ol>
-	<li>Définir la vitesse du port avant insertion du SFP</li>
+ 	<li>Définir la vitesse du port avant insertion du SFP</li>
 </ol>
 <pre><code>conf
 int e1/1
 speed 1000
 </code></pre>
 <ol>
-	<li>Insérer le SFP dans un port compatible 1/10GbE :</li>
+ 	<li>Insérer le SFP dans un port compatible 1/10GbE :</li>
 </ol>
 - Sur les Nexus 5010 : ports 1 à 8,
 - Sur les Nexus 5020 : ports 1 à 16,
