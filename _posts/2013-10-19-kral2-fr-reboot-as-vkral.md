@@ -13,7 +13,7 @@ Hello,
 
 This is the first post on my personal blog, at least in his new formula.
 
-First things first, those of you who was following me before (a very tiny circle of close friends) noticed I'm publishing in English : I will try to do that at least for all technical stuff, as it will be easier this way than using hilarious translations ... Bear with my english, I'm more used to read it&nbsp;than to write it :)
+First things first, those of you who was following me before (a very tiny circle of close friends) noticed I'm publishing in English : I will try to do that at least for all technical stuff, as it will be easier this way than using hilarious translations ... Bear with my english, I'm more used to read it than to write it :)
 
 For other personal hobbies, or when I am not in the mood, I still keep the option to freely switch in one of my native tongues :)
 
