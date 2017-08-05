@@ -8,6 +8,6 @@ permalink: http://www.kral2.fr/intel-cpus/
 published: true
 post_date: 2017-08-05 02:24:56
 ---
-This is timeline for Intel's CPU architecture.
+This is a timeline for Intel CPU architectures release year, outlining major improvements over the predecessor and new feature introduction.
 
 [tm-timeline layout="2" visible-items="1" date-format="7" tag="Intel" anchors="False" order="DESC"]
