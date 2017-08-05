@@ -4,7 +4,7 @@ post_title: IT major events
 author: kral2
 post_excerpt: ""
 layout: page
-permalink: http://www.kral2.fr/it-major-events/
+permalink: http://www.kral2.fr/it-timeline/
 published: true
 post_date: 2017-07-30 07:07:53
 ---
