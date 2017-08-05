@@ -1,13 +1,13 @@
 ---
 ID: 603
-post_title: 'How.too : Configure a GbE interface on Nexus 5xx/55xx/56xx'
+post_title: 'How.to : Configure a GbE interface on Nexus 5xx/55xx/56xx'
 author: kral2
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.kral2.fr/how-too-configure-a-gbe-interface-on-nexus-5xx55xx56xx/
+  http://www.kral2.fr/how-to-configure-a-gbe-interface-on-nexus-5xx55xx56xx/
 published: true
-post_date: 2017-02-08 18:32:19
+post_date: 2017-02-08 19:32:19
 ---
 When you insert a GLC-T module without any previous configuration, you are likely to get the error " SFP Validation Failed", even if using a compatible module. This is because not all ports are capable to "downgrade" their functional speed to 1GbE : **you have to insert the SFP in an eligible port and configure it**. Best practice is to configure the port's speed setting **before** inserting the SFP module.
 
