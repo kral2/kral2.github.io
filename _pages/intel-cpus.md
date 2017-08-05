@@ -10,4 +10,4 @@ post_date: 2017-08-05 02:24:56
 ---
 This is timeline for Intel's CPU architecture.
 
-[tm-timeline layout="2" visible-items="1" date-format="0" tag="Intel" anchors="False" order="DESC"]
+[tm-timeline layout="2" visible-items="1" date-format="7" tag="Intel" anchors="False" order="DESC"]
