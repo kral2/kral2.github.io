@@ -8,7 +8,7 @@ permalink: http://www.kral2.fr/intel-cpus/
 published: true
 post_date: 2017-08-05 02:24:56
 ---
-This is a timeline for&nbsp;Intel CPU architectures, outlining major improvements over the predecessor model and new features introductions.
+This is a timeline for Intel CPU architectures, outlining major improvements over the predecessor model and new features introductions.
 
 Each item of the list is a VMware EVC compatibility mode you can choose to run your DRS cluster.
 
