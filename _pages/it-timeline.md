@@ -14,6 +14,4 @@ This timeline show all major events in the IT ecosystem I think they are worth t
  	<li>Partnership announcement,</li>
  	<li>Influential people moving, stepping down, etc ...</li>
 </ul>
-&nbsp;
-
 [tm-timeline layout="2" visible-items="1" date-format="0" tag="events" anchors="true" order="DESC"]
