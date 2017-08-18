@@ -6,7 +6,8 @@ post_title: >
 author: kral2
 post_excerpt: ""
 layout: post
-permalink: http://www.kral2.fr/__trashed/
+permalink: >
+  http://www.kral2.fr/operations-sur-comware-os-hpe-flexfabric-switching-basics/
 published: true
 post_date: 2017-08-06 15:37:45
 ---
